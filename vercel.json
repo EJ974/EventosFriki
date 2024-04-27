@@ -1,5 +1,5 @@
-{
+ {
     "functions": { "*.php": { "runtime": "now-php@1.0.0" } },
-    "rewrites": [{ "source": "/(.*)", "destination": "/index.php" }]
+    "rewrites": [{ "source": "/(.*)", "destination": "/inicio.php" }]
   }
   
