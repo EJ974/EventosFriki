@@ -105,7 +105,7 @@
 <div class="row justify-content-center">
     <!-- Botón de WhatsApp -->
     <div class="col-auto">
-        <a href="" target="_blank">
+        <a href="https://wa.me/3794928407" target="_blank">
             <img src="img/wasap.png" alt="WhatsApp" style="background-color: orange; margin-top: -34px; width: 60px; height: 60px; background-size: cover; background-position: center; padding: 10px; border-radius: 20%;">
         </a>
     </div>
