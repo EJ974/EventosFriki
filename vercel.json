@@ -1,4 +1,5 @@
 {
-    "functions": { "api/**/*.php": { "runtime": "now-php@1.0.0" } },
-    "rewrites": [{ "source": "/(.*)", "destination": "/inicio.php" }]
+    "functions": { "*.php": { "runtime": "now-php@1.0.0" } },
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.php" }]
   }
+  
