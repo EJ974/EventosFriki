@@ -69,38 +69,9 @@
 <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Inline&family=Bungee+Spice&family=Concert+One&family=Fascinate+Inline&family=Fredericka+the+Great&family=Frijole&family=Honk&family=Kavoon&family=Luckiest+Guy&family=Passion+One:wght@400;700;900&family=Rampart+One&family=Rubik+Doodle+Shadow&family=Shojumaru&display=swap" rel="stylesheet">
  <!---------------------------------------->
 
-
- <script src="firebase.js"></script>
 </head>
 <body style="background-image: url('img/wp9684212-anime-compilation-wallpapers.jpg'); background-size: cover; background-position: center;">
-    
- <!-- Incluye el SDK de Firebase -->
- <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/9.0.2/firebase-analytics.js"></script>
-
-    <script>
-        // Configuración de Firebase
-        const firebaseConfig = {
-            apiKey: "AIzaSyC4gn1aj1pAh66CsQNn1uNVcYxw5ODt14Y",
-            authDomain: "eventos-friki.firebaseapp.com",
-            projectId: "eventos-friki",
-            storageBucket: "eventos-friki.appspot.com",
-            messagingSenderId: "224267774326",
-            appId: "1:224267774326:web:a1c4b6c9d839eb156b3257",
-            measurementId: "G-NET35J0HV6"
-        };
-
-        // Inicializa Firebase
-        const app = firebase.initializeApp(firebaseConfig);
-        const analytics = firebase.analytics();
-
-        // Aquí puedes comenzar a utilizar Firebase en tu código JavaScript
-    </script>
-
-
-
-
-<!-- Navbar con menú hamburguesa -->
+    <!-- Navbar con menú hamburguesa -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark" style="background-image: url('img/14622639415_5a7908cd34_o.jpg'); background-size: cover; background-position: center; border-bottom: 1px solid rgba(255, 255, 255, 0.1); box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);">
     <div class="container-fluid">
         <!-- Botón para el menú hamburguesa -->
