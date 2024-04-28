@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "php script-de-construccion.php"
+  }
+}
