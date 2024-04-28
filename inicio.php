@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -70,6 +69,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Bungee+Inline&family=Bungee+Spice&family=Concert+One&family=Fascinate+Inline&family=Fredericka+the+Great&family=Frijole&family=Honk&family=Kavoon&family=Luckiest+Guy&family=Passion+One:wght@400;700;900&family=Rampart+One&family=Rubik+Doodle+Shadow&family=Shojumaru&display=swap" rel="stylesheet">
  <!---------------------------------------->
 
+
+ <script src="firebase.js"></script>
 </head>
 <body style="background-image: url('img/wp9684212-anime-compilation-wallpapers.jpg'); background-size: cover; background-position: center;">
     <!-- Navbar con menú hamburguesa -->
