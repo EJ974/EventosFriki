@@ -1,7 +1,7 @@
 {
     "hosting"; {
-      "site"= "eventosfriki",
-      "public"= "public"
+      "site": "eventosfriki",
+      "public": "public"
     }
   }
   
